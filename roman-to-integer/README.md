@@ -1,4 +1,4 @@
-# Roma Rakamından Tamsayıya Dönüştürücü
+# Roman to Integer
 
 Bu Ruby metodu, romen rakamlarını tamsayılara dönüştürmek için kullanılır.
 
