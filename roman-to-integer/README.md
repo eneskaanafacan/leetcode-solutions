@@ -34,7 +34,7 @@ require_relative 'roman_to_int'
 # Romen rakamı örneği:
 romen_rakami = "MCMXCIV"
 tamsayi_degeri = roman_to_int(romen_rakami)
-puts "Roma Rakamı: #{romen_rakami}"
+puts "Romen Rakamı: #{romen_rakami}"
 puts "Tamsayı Değeri: #{tamsayi_degeri}"
 ```
 ## Örnekler
